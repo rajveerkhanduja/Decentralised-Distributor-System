@@ -34,7 +34,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-<<<<<<< HEAD
 
 node_modules
 .env
@@ -53,5 +52,3 @@ node_modules
 
 # Hardhat Ignition default folder for deployments against a local node
 ignition/deployments/chain-31337
-=======
->>>>>>> 13b912ce62c0dc4becd1cd038015e6e83829d6b4
